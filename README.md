@@ -1,0 +1,1 @@
+# Git-conflict-helper-script
